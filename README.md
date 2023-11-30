@@ -17,11 +17,12 @@ Operating within the intricate ecosystem of Microsoft Azure, Suvam masterfully n
 
 <h4 align="left">👨‍💻 Language & Tech:</h4>
 <p>
-<code><img height="25" src="python.jpeg"></code>
-<code><img height="40" src="/ML.png"></code>
-<code><img height="40" src="/pandas.png"></code>
-<code><img height="40" src="/Tensorflow_logo.jpg"></code>
-<code><img height="40" src="/nlp.jpg"></code>
-<code><img height="40" src="/openCV.png"></code>
-<code><img height="40" src="/computerVision.png"></code>
+<code><img height="30" src="python.jpeg"></code>
+<code><img height="30" src="numpy.jpeg"></code>
+<code><img height="30" src="pandas.jpeg"></code>
+<code><img height="30" src="keras.jpeg"></code>
+<code><img height="30" src="tensorflow.jpeg"></code>
+<code><img height="30" src="deep_learning.jpeg"></code>
+<code><img height="30" src="generative_ai.jpeg"></code>
+<code><img height="30" src="azure.jpeg"></code>
 </p>
