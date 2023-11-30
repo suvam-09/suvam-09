@@ -21,8 +21,10 @@ Operating within the intricate ecosystem of Microsoft Azure, Suvam masterfully n
 <code><img height="30" src="numpy.jpeg"></code>
 <code><img height="30" src="pandas.jpeg"></code>
 <code><img height="30" src="keras.jpeg"></code>
+<code><img height="30" src="scikit-learn.png"></code>
 <code><img height="30" src="tensorflow.jpeg"></code>
-<code><img height="30" src="deep_learning.jpeg"></code>
+<code><img height="30" src="deep_learning.png"></code>
 <code><img height="30" src="generative_ai.jpeg"></code>
-<code><img height="30" src="azure.jpeg"></code>
+<code><img height="30" src="microsoft-azure.png"></code>
+<code><img height="30" src="azure-ml.jpg"></code>
 </p>
