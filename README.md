@@ -17,7 +17,7 @@ Operating within the intricate ecosystem of Microsoft Azure, Suvam masterfully n
 
 <h4 align="left">👨‍💻 Language & Tech:</h4>
 <p>
-<code><img height="40" src="python.png"></code>
+<code><img height="25" src="python.jpeg"></code>
 <code><img height="40" src="/ML.png"></code>
 <code><img height="40" src="/pandas.png"></code>
 <code><img height="40" src="/Tensorflow_logo.jpg"></code>
